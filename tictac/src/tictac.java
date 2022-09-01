@@ -239,11 +239,6 @@ public class tictac {
 
     }
 
-    //method for turn and place symbol in location
-    private static int getPlayer(String[][] newBox, int player) {
-
-        return player;
-    }
 
     //method to show what's inside the box
     private static void boxShower(String[][] newBOox) {

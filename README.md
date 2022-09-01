@@ -1,10 +1,10 @@
 # Project TIC_TAC GAME FOR 2 PLYAERS
 
-Jihun Choi
+Jihun Choi / tkarnrwlehtk@gmail.com
 
 -------------------------------------------------------------------------------------------------
 
-This is TIC_TAC game for 2 players written in JAVA CODE.
+This is TIC_TAC game for 2 players written in JAVA CODE
 
 Game Guide:
 
